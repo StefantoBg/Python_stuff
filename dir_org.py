@@ -2,6 +2,8 @@ import os
 from pathlib import Path
 
 
+## Customize your own directories by file types by adding "key:value" pairs in the dictionary  list SUBDIRECTORIES
+
 SUBDIRECTORIES = {
     "DOCUMENTS": ['.pdf','.rtf','.txt'],
     "AUDIO":['.m4a','.m4b','.mp3'],
