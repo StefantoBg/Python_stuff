@@ -12,5 +12,6 @@ HOW to use:
 
 
 ```bash
-./youtube_downloader.py --output_path "kurt" https://www.youtube.com/watch?v=qv96yJYhk3M&list=RDqv96yJYhk3M&start_radio=1
+./youtube_downloader.py --output_path "kurt" --playlist --mp3  https://www.youtube.com/watch?v=qv96yJYhk3M&list=RDqv96yJYhk3M&start_radio=1
+
 ``` 
