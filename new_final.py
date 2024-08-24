@@ -1,3 +1,7 @@
+## actual command 
+# python new_final.py "https://www.youtube.com/watch?v=hTWKbfoikeg" --cliptime 7-20 --resolution medium --output teen-spirit
+
+
 import yt_dlp
 import sys
 import re
